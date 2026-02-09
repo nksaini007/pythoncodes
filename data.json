@@ -1,0 +1,37 @@
+[
+    {
+        "username": "mohit",
+        "password": "1234",
+        "phone": 6377011413,
+        "gmail": "mohit@gmail.com",
+        "school": "clc alwar"
+    },
+    {
+        "username": "ronak",
+        "password": "ronak123",
+        "phone": 8998293842,
+        "gmail": "sjpw@gmail.com",
+        "school": "kcri alwar"
+    },
+    {
+        "username": "Akhil",
+        "password": "DEVIL",
+        "phone": 7737453456,
+        "gmail": "donk@gmail.com",
+        "school": "aps alwar"
+    },
+    {
+        "username": "neeraj",
+        "password": "1234",
+        "phone": 657770001,
+        "gmail": "nk@gmail.com",
+        "school": "asdf"
+    },
+    {
+        "username": "nou",
+        "password": "6789",
+        "phone": 7890,
+        "gmail": "0987",
+        "school": "oiu"
+    }
+]
